@@ -8,4 +8,4 @@ This project is a fork of [Ambiant-MATE](https://github.com/lah7/Ambiant-MATE/tr
 # Credits
 [Ambiant-MATE](https://github.com/lah7/Ambiant-MATE/tree/master) for main theme base.
 
-[Ubuntu Yaru](https://github.com/ubuntu/yaru) for GTK4 base.
+[Ubuntu Yaru](https://github.com/ubuntu/yaru) for GTK4 and XFWM base.
