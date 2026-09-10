@@ -105,7 +105,9 @@
 #PanelPlug,
 .mate-panel-menu-bar,
 PanelToplevel.background {
-    background-color: @dark_bg_color;
+    background-color:  -gtk-gradient (linear, left top, left bottom,
+                                     from (shade (@dark_bg_color, 1.5)),
+                                     to (shade (@dark_bg_color, 1.05)));
     background-image: none;
     /* normal panel */
     color: @dark_fg_color;
